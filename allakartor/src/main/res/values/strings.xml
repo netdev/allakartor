@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Allakartor</string>
+    <string name="list">Lista</string>
+    <string name="map">Karta</string>
+    <string name="settings">Inställningar</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Avbryt</string>
+    <string name="select_maps">Välj kartor</string>
+    
+    <string name="badkartan">Badkartan.se</string>
+    <string name="cafekartan">Cafekartan.se</string>
+    <string name="campingkartan">Campingkartan.se</string>
+    <string name="flygkartan">Flygkartan.se</string>
+    <string name="gymnasiekartan">Gymnasiekartan.se</string>
+    <string name="hotellkartan">Hotellkartan.se</string>
+    <string name="kyrkokartan">Kyrkokartan.se</string>
+    <string name="pizzakartan">Pizzakartan.se</string>
+    <string name="restaurangkartan">Restaurangkartan.se</string>
+    <string name="sushikartan">Sushikartan.se</string>
+    <string name="vandrarhemskartan">Vandrarhemskartan.se</string>
+    <string name="vintagekartan">Vintagekartan.se</string>
+    <string name="wifikartan">Wifikartan.se</string>
+    
+    <string name="error_useremail_missing">E-mail saknas</string>
+    <string name="error_password_missing">Lösenord saknas</string>
+    <string name="error_no_active_user">Okänd användare</string>
+    <string name="error_password_incorrect">Felaktigt lösenord</string>
+    <string name="error_with_id">Felaktigt ställe</string>
+    <string name="error_with_grade">Felaktigt betyg</string>
+    <string name="error_review_too_short">Recensionen är för kort, min 30 tecken</string>
+    <string name="error_review_too_long">Recensionen är för lång, max 900 tecken</string>
+    <string name="error_review_incorrect_text">Recensionen innehåller felaktiga tecken</string>
+    <string name="error_username_missing">Användarnamn saknas</string>
+    <string name="error_username_too_short">Användarnamnet är för kort, min 7 tecken</string>
+    <string name="error_username_too_long">Användarnamnet är för långt, max 30 tecken</string>
+    <string name="error_username_characters">Avändarnamnet innehåller felaktiga tecken</string>
+    <string name="error_city_too_short">Staden är för kort, minst 2 tecken</string>
+    <string name="error_city_too_long">Staden är för lång, max 60 tecken</string>
+    <string name="error_zip_code">Postnummret måste vara 5 siffror långt</string>
+    <string name="error_description_too_long">Beskrivningen är för lång, max 30 tecken</string>
+    <string name="error_description">Beskrivningen innehåller felaktiga tecken</string>
+    <string name="error_email_too_short">E-postadressen är för kort, min 7 tecken</string>
+    <string name="error_email_too_long">E-postadressen är för lång, max 60 tecken</string>
+    <string name="error_email">E-postadressen är felaktigt angiven</string>
+    <string name="error_username_in_use">Användarnamnet är upptaget</string>
+    <string name="error_email_in_use">E-postadressen är upptagen</string>
+    
+    <string name="reviews">Recensioner</string>
+    <string name="opening_hours">Öppettider</string>
+    <string name="map_and_driving_directions">Karta och vägbeskrivning</string>
+    <string name="phone">Telefon</string>
+    <string name="pictures">Bilder</string>
+    <string name="new_review">Ny recension</string>
+    <string name="new_picture">Ny bild</string>
+</resources>
